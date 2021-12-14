@@ -16,6 +16,17 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
 } 
+header {
+    width: 75%;
+    margin:auto;
+    height:300px;
+    background-image: url('../images/deer.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
 .nav {
     text-decoration: none;
     color: #f5f5f5;
