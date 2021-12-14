@@ -32,11 +32,19 @@ body {
     text-decoration: none;
     color: #f5f5f5;
 }
+nav {
+    border: 1px solid white;
+    width: 75%;
+    margin: auto;
+    height: 30px;
+    background-color: black;
+}
 #mymenu {
     font-size: large;
     letter-spacing: 2px;
+    text-align: center;
 }
 #mymenu li {
-    float: right;
+    display: inline-block;
     list-style-type: none;
 }
