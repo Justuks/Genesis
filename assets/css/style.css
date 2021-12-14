@@ -36,8 +36,10 @@ nav {
     border: 1px solid white;
     width: 75%;
     margin: auto;
-    height: 30px;
+    height: 60px;
     background-color: black;
+    margin-top: 5px;
+    border-radius: 20px;
 }
 #mymenu {
     font-size: large;
