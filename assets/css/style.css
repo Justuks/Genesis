@@ -49,4 +49,5 @@ nav {
 #mymenu li {
     display: inline-block;
     list-style-type: none;
+    margin-right: 10px;
 }
