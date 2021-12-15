@@ -46,6 +46,7 @@ nav {
     font-size: large;
     letter-spacing: 2px;
     text-align: center;
+    margin-top: 25px;
 }
 #mymenu li {
     display: inline-block;
@@ -62,4 +63,30 @@ nav {
     background-image: url('../images/girl.jpeg');
     background-position: center center;
     background-size: cover;
+}
+#p {
+    width: 50%;
+    height: 500px;
+    float: right;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 1rem;
+}
+@media screen and (max-width: 750px) {
+    #photo {
+        width: 95%;
+        height: 450px;
+        margin:0 auto;
+    }
+    nav {
+        width: 95%;
+        height: 100px;
+        margin: 0 auto;
+    }
+    #maindiv {
+        width: 95%;
+        height: 1000px;
+        margin: 0 auto;
+}
+    
 }
