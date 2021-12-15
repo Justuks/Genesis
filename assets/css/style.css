@@ -90,9 +90,12 @@ body {
     }
     #maindiv {
         width: 95%;
-        height: 1000px;
+        height: 1200px;
         margin: 0 auto;
 } 
+.head {
+    width: 95%;
+}
 #mylogo {
     width: 95%;
 }
