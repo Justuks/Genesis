@@ -141,3 +141,14 @@ footer a {
     text-align: center;
     padding-top: 20px;
 }
+.gallery {
+    width: 75%;
+    margin:auto;
+    height:300px;
+    background-image: url('../images/deer.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border: 1px solid white;
+}
