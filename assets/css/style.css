@@ -23,7 +23,7 @@ body {
     border-radius: 20px;
     margin-bottom: 10px;
 } 
-#photo {
+.photo {
     width: 75%;
     margin:auto;
     height:300px;
@@ -136,4 +136,8 @@ footer a {
     text-decoration: none;
     letter-spacing: 2px;
     font-size: x-small;
+}
+.title {
+    text-align: center;
+    padding-top: 20px;
 }
