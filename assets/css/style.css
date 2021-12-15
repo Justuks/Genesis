@@ -141,14 +141,63 @@ footer a {
     text-align: center;
     padding-top: 20px;
 }
-.gallery {
+#hare {
     width: 75%;
     margin:auto;
     height:300px;
-    background-image: url('../images/deer.jpeg');
+    background-image: url('../images/hare.jpeg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
     border: 1px solid white;
+    margin-top: 10px;
+}
+#hunters {
+    width: 75%;
+    margin:auto;
+    height:300px;
+    background-image: url('../images/hunters.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-top: 10px;
+}
+#jeep {
+    width: 75%;
+    margin:auto;
+    height:300px;
+    background-image: url('../images/jeep.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-top: 10px;
+}
+#teens {
+    width: 75%;
+    margin:auto;
+    height:300px;
+    background-image: url('../images/kids.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-top: 10px;
+}
+#fire {
+    width: 75%;
+    margin:auto;
+    height:300px;
+    background-image: url('../images/campfire.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-top: 10px;
 }
