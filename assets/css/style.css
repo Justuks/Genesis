@@ -88,6 +88,9 @@ body {
         height: 1000px;
         margin: 0 auto;
 } 
+#p {
+    width: 75%;
+}
 }
 p {
     font-size: large;
