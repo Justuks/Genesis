@@ -194,6 +194,16 @@ footer {
 #contact p {
     margin: 0;
 }
+#map {
+    width: 75%;
+    margin:auto;
+}
+#iframe {
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 10px;
+    height: 350px;
+}
 @media screen and (max-width: 750px) {
     .photo {
         width: 95%;
@@ -265,6 +275,9 @@ footer {
         width:95%;
         height: 550px;
         margin: 0 auto
+    }
+    #map {
+        width: 95%;
     }
 }
 
