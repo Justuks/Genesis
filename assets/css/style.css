@@ -161,6 +161,15 @@ body {
     margin-top: 10px;
     border-radius: 20px;
 }
+#contact-us-head {
+    border: 1px solid white;
+    width: 75%;
+    margin: auto;
+    height: 80px;
+    background-color: black;
+    margin-top: 10px;
+    border-radius: 20px;
+}
 footer {
     border: 1px solid white;
     width: 75%;
@@ -199,6 +208,11 @@ footer {
     }
 
     #gallery-head {
+        width: 95%;
+        height: 100px;
+        margin: 0 auto;
+    }
+    #contact-us-head {
         width: 95%;
         height: 100px;
         margin: 0 auto;
