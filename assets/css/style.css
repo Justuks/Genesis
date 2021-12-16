@@ -191,6 +191,9 @@ footer {
     text-align: center;
     letter-spacing: 2px;
 }
+#contact p {
+    margin: 0;
+}
 @media screen and (max-width: 750px) {
     .photo {
         width: 95%;
@@ -257,6 +260,11 @@ footer {
         width: 95%;
         height: 550px;
         margin: 0 auto;
+    }
+    #contact {
+        width:95%;
+        height: 550px;
+        margin: 0 auto
     }
 }
 
