@@ -37,7 +37,10 @@ body {
     background-repeat: no-repeat;
     border-radius: 20px;
     border: 1px solid white;
-
+}
+.photo p {
+    text-align: left;
+    margin-left: 5px;
 }
 
 .nav {
