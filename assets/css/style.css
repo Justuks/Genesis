@@ -17,19 +17,19 @@ body {
 
 #mylogo {
     text-align: center;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     letter-spacing: 2px;
     background-color: black;
     width: 75%;
     margin: auto;
     border-radius: 20px;
-    margin-bottom: 10px;
 }
 
 .photo {
     width: 75%;
     margin: auto;
+    margin-top: 30px;
     height: 300px;
     background-image: url('../images/deer.jpeg');
     background-position: center center;
@@ -209,6 +209,31 @@ footer {
         height: 100px;
         margin: 0 auto;
     }
+    #hare{
+        width: 95%;
+        height: 550px;
+        margin: 0 auto;
+    }
+    #hunters{
+        width: 95%;
+        height: 550px;
+        margin: 0 auto;
+    }
+    #jeep {
+        width: 95%;
+        height: 550px;
+        margin: 0 auto;
+    }
+    #teens {
+        width: 95%;
+        height: 550px;
+        margin: 0 auto;
+    }
+    #fire {
+        width: 95%;
+        height: 550px;
+        margin: 0 auto;
+    }
 }
 
 p {
@@ -235,5 +260,6 @@ footer a {
 .title {
     text-align: center;
     padding-top: 20px;
+    letter-spacing: 2px;
 }
 
