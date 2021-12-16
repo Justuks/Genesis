@@ -181,6 +181,16 @@ footer {
     border-radius: 20px;
     text-align: center;
 }
+#contact {
+    border: white solid 1px;
+    border-radius: 20px;
+    width: 75%;
+    margin: auto;
+    background-color: black;
+    margin-top: 30px;
+    text-align: center;
+    letter-spacing: 2px;
+}
 @media screen and (max-width: 750px) {
     .photo {
         width: 95%;
