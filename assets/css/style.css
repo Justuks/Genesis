@@ -149,6 +149,10 @@ body {
     border: 1px solid white;
     margin-top: 30px;
 }
+.respond p {
+text-align: left;
+margin-left: 5px;
+}
 
 #gallery-head {
     border: 1px solid white;
