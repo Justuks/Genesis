@@ -24,6 +24,7 @@ body {
     width: 75%;
     margin: auto;
     border-radius: 20px;
+    text-decoration: none;
 }
 
 .photo {
@@ -201,11 +202,12 @@ footer {
 #map {
     width: 75%;
     margin: auto;
+    
 }
 #iframe {
     width: 100%;
     border-radius: 20px;
-    margin-top: 10px;
+    margin-top: 30px;
     height: 350px;
 }
 #important {
@@ -296,7 +298,10 @@ footer {
     }
     #map {
         width: 95%;
-        margin: 10 px auto 0;
+        margin: 10px auto 0;
+    }
+    #iframe {
+        margin: 10px auto 0;
     }
 }
 
@@ -322,4 +327,6 @@ footer a {
     text-align: center;
     padding-top: 20px;
 }
-
+a:hover {
+    text-decoration: overline;
+}
