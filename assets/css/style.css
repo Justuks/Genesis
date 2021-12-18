@@ -294,13 +294,18 @@ footer {
     #contact {
         width:95%;
         height: 550px;
-        margin: 10px auto 0
+        margin: 10px auto 0;
     }
     #map {
         width: 95%;
         margin: 10px auto 0;
     }
     #iframe {
+        margin: 10px auto 0;
+    }
+    #important {
+        width: 95%;
+        height: 100px;
         margin: 10px auto 0;
     }
 }
