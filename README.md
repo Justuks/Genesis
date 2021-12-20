@@ -73,10 +73,40 @@ HTML validation on the other hand gives three warnings about tags that were used
 ![Screenshot (16)](https://user-images.githubusercontent.com/93588907/146760000-8edc4383-892e-4fb0-be03-c25c41f3a9a6.png)
 
 
+Tests of adaptability to different screen sizes were carried out by means of dev tools as well as checked on http://ami.responsivedesign.is/ website.
+
+![Screenshot (17)](https://user-images.githubusercontent.com/93588907/146774652-f6c3cec3-06e1-4a71-87bc-684955e7380f.png)
+
+
+
 BUGS ALONG THE WAY
 
 While working on "OLD BARN" project, an interesting situation developed around social media icons. 
 Although there is an overline rule applied when hovering over navigation elements - icons do not respond. Reason thus far unknown.
+
+
+DEPLOYMENT
+
+Website was deployed and available to the public for stoning through GitHub platform.
+Steps of deployment: 
+
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+"OLD BARN" project is available on the following link:
+https://justuks.github.io/Genesis/
+
+
+
+CREDITS
+
+First of all, I would like to express my gratitude to Mr.Stephen_5p_lead and Mr.DaveHorrocks_5P, both members of "Slack" community, who helped me to understand the concepts of GitHub and GitPod.
+Also Code Institute's 'Love Running Project' provided me with a guiding light.
+While the idea of this website was my own, the photos and a map were taken from: https://www.pexels.com/ and Google Maps respectively.
+To sum it all up, the "OLD BARN" project was completed by trial and error method, mainly with the guidance from course material.
+
+
 
 
 
