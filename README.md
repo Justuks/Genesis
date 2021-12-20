@@ -21,7 +21,7 @@ Website is easy to navigate as all three pages have identical navigation bar:
 
 
 
-The links are to internal pages as well as to main social-media platforms of a imaginary entity.
+The links are to internal pages as well as to main social-media platforms of this imaginary entity.
 
 
 To further enhance user frindly look and feel - "return to the top" links are provided at the bottom of each page:
@@ -54,6 +54,10 @@ As mentioned above, Gallery and Contact us pages provide coresponding content in
 
 The same footer section also spreads through all three pages. 
 It includes aforementioned "Return to the top" link and the name of a website creator.
+
+![Screenshot (19)](https://user-images.githubusercontent.com/93588907/146779272-7186528d-8202-4aef-87fc-08d6cab82f8d.png)
+
+
 
 
 TESTING
