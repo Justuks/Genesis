@@ -337,6 +337,9 @@ footer a {
     color: #f5f5f5;
     text-decoration: none;
 }
+#mail:hover {
+    text-decoration: underline;
+}
 a:hover {
     text-decoration: underline;
 }
