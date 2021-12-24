@@ -226,7 +226,7 @@ footer {
 @media screen and (max-width: 750px) {
     .photo {
         width: 95%;
-        height: 450px;
+        height: 300px;
         margin: 10px auto 0;
     }
 
@@ -275,32 +275,32 @@ footer {
     }
     #hare{
         width: 95%;
-        height: 550px;
+        height: 300px;
         margin: 10px auto 0;
     }
     #hunters{
         width: 95%;
-        height: 550px;
+        height: 300px;
         margin: 10px auto 0;
     }
     #jeep {
         width: 95%;
-        height: 550px;
+        height: 300px;
         margin: 10px auto 0;
     }
     #teens {
         width: 95%;
-        height: 550px;
+        height: 300px;
         margin: 10px auto 0;
     }
     #fire {
         width: 95%;
-        height: 550px;
+        height: 300px;
         margin: 10px auto 0;
     }
     #contact {
         width:95%;
-        height: 550px;
+        height: 400px;
         margin: 10px auto 0;
     }
     #map {
