@@ -8,13 +8,21 @@
 
 
 ## **Technologies used:**
-## HTML5 - To build a structure
-## CSS - To style the project
-## Google Fonts - As a fonts recourse
-## Font awesome - As an Icons library
-## GitPod - Used as building platform
-## Wireframe.cc - Used for wireframing
-## GitHub - Used as a hosting platform
+- ## HTML5 - To build a structure
+- ## CSS - To style the project
+- ## Google Fonts - As a fonts recourse
+- ## Font awesome - As an Icons library
+- ## GitPod - Used as building platform
+- ## Wireframe.cc - Used for wireframing
+- ## GitHub - Used as a hosting platform
+
+## **Website owners goals.**
+### To introduce an organization's mission to general public, and as mentioned above,
+### to do it in the most user-friendly way possible.
+
+## **Users goals.**
+### To familiarize with an organization. Find its contact information and location.
+### To connect with an organization's social media platforms if needed.
  
 
 
