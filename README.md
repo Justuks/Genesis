@@ -31,6 +31,23 @@
 - ### Gallery page, where photos of members or activities can be published.
 - ### Contact us page, where user can easily find all relevant contact information.
 
+## **Wirframes of the pages**
+
+### Home Page
+![Home Page](https://user-images.githubusercontent.com/93588907/147420505-ff6cad68-c042-4fee-b97b-f1f759fe228e.png)
+
+### Gallery Page
+![Gallery Page](https://user-images.githubusercontent.com/93588907/147420601-671d770c-84f0-422e-ba6d-3244543c59f6.png)
+
+### Contact Us Page
+![Screenshot (27)](https://user-images.githubusercontent.com/93588907/147420669-0ab38cac-a117-4eeb-a9e9-b964c7f04d7f.png)
+ 
+ 
+
+
+
+
+
 
 
 
