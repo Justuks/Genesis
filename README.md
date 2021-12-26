@@ -13,7 +13,7 @@
 - ### Google Fonts - As a fonts recourse
 - ### Font awesome - As an Icons library
 - ### GitPod - Used as building platform
-- ### Wireframe.cc - Used for wireframing
+- ### Balsamiq Wireframes - Used for wireframing
 - ### GitHub - Used as a hosting platform
 
 ## **Website owners expectations.**
@@ -52,6 +52,25 @@
 
 ### Contact Us Page
 ![Mobile Contact Us Page](https://user-images.githubusercontent.com/93588907/147420846-e78b9247-9821-4070-9245-40de0ce6927c.png)
+
+## **Contrast**
+
+### In order to maximize the ease of use, dark background theme and a pearl-white (#f5f5f5)
+### font color was chosen.
+
+## **Features**
+
+### **Navigation Bar**
+![Navigation links](https://user-images.githubusercontent.com/93588907/147421179-ed3e3358-6344-45ab-a181-4754e64b286a.png)
+### Navigation links are easy to use. Besides two internal conectors, there are links to
+### organization's social media accounts.
+### All links, except social media icons, respond to hovering by displaying an underline.
+
+### **Current Page Indicator**
+![Current page label](https://user-images.githubusercontent.com/93588907/147421343-6548e239-309f-4539-a6ac-d2a48c553820.png)
+### All pages have an 'indicator' showing what section of a website user is in.
+### This feature helps website pages to look and feel more user-friendly as well as
+### it is indirect aid when it comes to navigating.
 
 
 
