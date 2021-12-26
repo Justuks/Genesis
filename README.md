@@ -42,7 +42,21 @@
 ### Contact Us Page
 ![Screenshot (27)](https://user-images.githubusercontent.com/93588907/147420669-0ab38cac-a117-4eeb-a9e9-b964c7f04d7f.png)
  
- 
+## **Small screen adapted wireframes**
+
+### Home Page
+![Mobile Home Page](https://user-images.githubusercontent.com/93588907/147420747-a7ece7e2-eb8d-444d-9262-5a8f4bd8949a.png)
+
+### Gallery Page
+![Mobile Gallery Page](https://user-images.githubusercontent.com/93588907/147420801-988a57e0-391a-484c-9a36-c90a3c6f1926.png)
+
+### Contact Us Page
+![Mobile Contact Us Page](https://user-images.githubusercontent.com/93588907/147420846-e78b9247-9821-4070-9245-40de0ce6927c.png)
+
+
+
+
+
 
 
 
