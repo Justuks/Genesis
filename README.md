@@ -72,6 +72,24 @@
 ### This feature helps website pages to look and feel more user-friendly as well as
 ### it is indirect aid when it comes to navigating.
 
+### **What We Do**
+![Main Declaration](https://user-images.githubusercontent.com/93588907/147421621-9e2cffb4-0809-4e79-86ae-ff0c335ff910.png)
+### This is the main declaration in a home page of what the organization is all about.
+### It is a mixture of textual and visual statements that complement each other.
+
+### **Footer**
+![Footer](https://user-images.githubusercontent.com/93588907/147421818-d9420e58-c6a7-4fd3-99ce-ab6fe82dcdca.png)
+### Footer section carries a very important link, which brings users back to the top of the page.
+### This feature eliminates the need to use a vertical scroll bar, adding to better user experience.
+### Within the footer there are also the details of an author.
+
+### **Gellery**
+### Gallery page consists of slots with images that directly or indirectly support 
+### organizations' mission.
+### Needless to say that the images can be taken out and new ones can be inserted if need be.
+
+
+
 
 
 
