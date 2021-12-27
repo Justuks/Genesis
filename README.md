@@ -157,7 +157,7 @@
 ### Creator had the wrong peception that once hovering command is given to a link - all links
 ### will respond. However, after consultation with tutors it became aparent that icons must be 
 ### addressed specifically by unique selectors. The issue was fixed, although after reviewing 
-### end results - hovering for the icons was dropped due to insuficient contrast.
+### the end results - hovering for the icons was dropped due to insuficient contrast.
 #  
 #  
 # **Deployment.**
@@ -167,7 +167,7 @@
 #  
 # **Credits.**
 ### This project would not have been achieved without the help and guidance of 
-### my mentor Mr. Mo Shami, and also without helpful
+### my mentor Mr. Mo Shami, and also without helpful hand of:
 - ### Slack Community
 - ### Code Institute tutors
 - ### And various online recources, such as: [W3C](https://www.w3schools.com/) 
