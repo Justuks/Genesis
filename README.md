@@ -5,7 +5,6 @@
 ## Is a website of an imaginary, non-profit public entity, designed with the goal of achieving maximum usability and accesibility across the wariety of platforms.
 #  
 #  
-
 # **Technologies used:**
 - ### HTML5 - To build a structure
 - ### CSS - To style the project
@@ -69,7 +68,7 @@
 #  
 #  
 # **Images**
-### All images featured in this project were taken from https://www.pexels.com/ .
+### All images featured in this project were taken from [Pexels](https://www.pexels.com/).
 #  
 #  
 # **Features.**
@@ -98,6 +97,7 @@
 ### Within the footer there are also the details of an author.
 
 ## **Gallery**
+![Gallery Page](https://user-images.githubusercontent.com/93588907/147484001-d12a8539-9c68-4895-943a-d964968e3d22.png)
 ### Gallery page consists of slots with images that directly or indirectly support 
 ### organizations' mission.
 ### Needless to say that the images can be taken out and new ones can be inserted if need be.
@@ -119,7 +119,7 @@
 #  
 #  
 # **Testing.**
-### During development phase project and its feature performance were constantly checked
+### During development phase, project and its feature performance were constantly checked
 ### using 'Developer Tools'. 
 ### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation' were very 
 ### useful in configurating project responsiveness to smaller screen sizes.
@@ -127,7 +127,8 @@
 ## **Hardware and Virtual 'Test Beds'**
 ### Apart from testing website reactions to different screen sizes on 'DevTools' and
 ### http://ami.responsivedesign.is/# website,
-### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung Z ### Flip 3 and Motorola G9 Play mobile phones.
+### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung 
+### Z Flip and Motorola G9 Play mobile phones.
 ### No issues were found and everything worked as intended.
 #  
 #  
@@ -169,9 +170,11 @@
 ### my mentor Mr. Mo Shami, and also without helpful
 - ### Slack Community
 - ### Code Institute tutors
-- ### And various online recources, such as: https://www.w3schools.com/ 
-  ### and: https://developer.mozilla.org/en-US/
-- ### Google maps: https://www.google.com/maps/
+- ### And various online recources, such as: [W3C](https://www.w3schools.com/) 
+  ### and: [Developer Mozilla](https://developer.mozilla.org/en-US/)
+- ### [Google maps](https://www.google.com/maps/)
+
+## [Jump to the top](#technologies-used)
 
 
 
