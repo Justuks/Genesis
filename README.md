@@ -3,10 +3,6 @@
 ![Screenshot (20)](https://user-images.githubusercontent.com/93588907/147383861-4a00e105-f287-41fe-be8a-136e575812bb.png)
 
 ## Is a website of an imaginary, non-profit public entity, designed with the goal of achieving maximum usability and accesibility across the wariety of platforms.
-
-
-
-
 # **Technologies used:**
 - ### HTML5 - To build a structure
 - ### CSS - To style the project
@@ -101,6 +97,13 @@
 ### Map, which sits below main contact details, strongly contributes to contact section when it
 ### comes to user experience.
 
+# **Responsiveness**
+### In order to achieve high user satisfaction while using different devices -
+### 'break-point' concept was applied.
+![Media query](https://user-images.githubusercontent.com/93588907/147478705-4649302c-dffb-4d5c-99dd-a6bd1f6e9494.png)
+### Elements were styled in such a way, that once below indicated pixel treshold, website 
+### maintained the same 'flow and feel'. 
+
 # **Testing**
 ### During development phase project and its feature performance were constantly checked
 ### using 'Developer Tools'. 
@@ -138,6 +141,20 @@
 ### will respond. However, after consultation with tutors it became aparent that icons must be 
 ### addressed specifically by unique selectors. The issue was fixed, although after reviewing 
 ### end results - hovering for the icons was dropped due to insuficient contrast.
+
+# **Deployment**
+### Project was developed using GitPod as a building platform.
+### Project was published on GitHub platform at: https://justuks.github.io/Genesis/
+
+# **Credits**
+### This project would not have been achieved without the help and guidance of 
+### my mentor Mr. Mo Shami, and also without helpful
+- ### Slack Community
+- ### Code Institute tutors
+- ### And various online recources, such as: https://www.w3schools.com/ 
+  ### and: https://developer.mozilla.org/en-US/
+- ### Google maps: https://www.google.com/maps/
+
 
 
 
