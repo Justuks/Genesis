@@ -107,11 +107,24 @@
 ### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation' were very 
 ### useful in configurating project responsiveness to smaller screen sizes.
 
-## **Hardware 'Test Beds'**
-### Apart from testing website reactions to different screen sizes on 'DevTools',
-### responsiveness was crosschecked also on HP PAVILION laptop, Samsung Galaxy Fold and
-### Motorola G9 Play mobile phones.
+## **Hardware and Virtual 'Test Beds'**
+### Apart from testing website reactions to different screen sizes on 'DevTools' and
+### http://ami.responsivedesign.is/# website,
+### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung Z Flip 3 and Motorola G9 Play mobile phones.
 ### No issues were found and everything worked as intended.
+
+# **W3C CSS and HTML Validation**
+### When checked, CSS returned with no errors found.
+### However, there was a following warning displayed.
+![Warning](https://user-images.githubusercontent.com/93588907/147469874-e6f2c642-272a-4ff2-ae30-9b7fd2282162.png)
+
+### When it comes to HTML, all three html pages passed the tests,
+### with no errors or warnings to show.
+
+## **Lighthouse Report**
+### When checking complete project with the 'Lighthouse' tool,
+### it generated the following report.
+![Lighthouse report](https://user-images.githubusercontent.com/93588907/147470964-6dd2bc1b-f461-4ebc-acc9-a9d3dfc75b60.png)
 
 
 
