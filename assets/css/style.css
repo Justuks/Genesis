@@ -212,6 +212,11 @@ footer {
 #map {
     width: 75%;
     margin: auto;
+    background-color: black;
+    margin-top: 30px;
+    border-radius: 20px;
+    text-align: center;
+    border: white solid 1px;
 
 }
 
