@@ -58,6 +58,12 @@
 ### In order to maximize the ease of use, dark background theme and a pearl-white (#f5f5f5)
 ### font color was chosen.
 
+# **Fonts**
+### Main font for this project is 'Source-serif-pro' while 'sans-serif' acts as a backup.
+
+# **Images**
+### All images featured in this project were taken from https://www.pexels.com/ .
+
 # **Features**
 
 ## **Navigation Bar**
@@ -83,10 +89,32 @@
 ### This feature eliminates the need to use a vertical scroll bar, adding to better user experience.
 ### Within the footer there are also the details of an author.
 
-## **Gellery**
+## **Gallery**
 ### Gallery page consists of slots with images that directly or indirectly support 
 ### organizations' mission.
 ### Needless to say that the images can be taken out and new ones can be inserted if need be.
+
+## **Contact Us**
+![Contact Details](https://user-images.githubusercontent.com/93588907/147454909-ca60c7e6-1ed1-419c-9073-f3500803fc4b.png)
+### This is very important section and as a result it is laid oud in a very clear configuration
+### without the unecessary 'bells and whistles' in a shape of tables or forms.
+### Map, which sits below main contact details, strongly contributes to contact section when it
+### comes to user experience.
+
+# **Testing**
+### During development phase project and its feature performance were constantly checked
+### using 'Developer Tools'. 
+### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation' were very 
+### useful in configurating project responsiveness to smaller screen sizes.
+
+## **Hardware 'Test Beds'**
+### Apart from testing website reactions to different screen sizes on 'DevTools',
+### responsiveness was crosschecked also on HP PAVILION laptop, Samsung Galaxy Fold and
+### Motorola G9 Play mobile phones.
+### No issues were found and everything worked as intended.
+
+
+
 
 
 
