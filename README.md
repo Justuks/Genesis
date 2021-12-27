@@ -3,6 +3,9 @@
 ![Screenshot (20)](https://user-images.githubusercontent.com/93588907/147383861-4a00e105-f287-41fe-be8a-136e575812bb.png)
 
 ## Is a website of an imaginary, non-profit public entity, designed with the goal of achieving maximum usability and accesibility across the wariety of platforms.
+#  
+#  
+
 # **Technologies used:**
 - ### HTML5 - To build a structure
 - ### CSS - To style the project
@@ -11,23 +14,27 @@
 - ### GitPod - Used as building platform
 - ### Balsamiq Wireframes - Used for wireframing
 - ### GitHub - Used as a hosting platform
-
+#  
+#  
 # **Website owners expectations.**
 ### To introduce an organization's mission to general public, and as mentioned above,
 ### to do it in the most user-friendly way possible.
-
+#  
+#  
 # **User expectations.**
 ### To familiarize with an organization. To find easily its contact information and location.
 ### To connect with an organization's social media platforms if needed.
- 
+#  
+#  
 # **Structure of a website.**
 # "OLD BARN" - Wildlife Preservation and Hunting Club
 ### embodies three pages:
 - ### Home page, with the main declaration of an entity.
 - ### Gallery page, where photos of members or activities can be published.
 - ### Contact us page, where user can easily find all relevant contact information.
-
-# **Wirframes of the pages**
+#  
+#
+# **Wirframes of the pages.**
 
 ### Home Page
 ![Home Page](https://user-images.githubusercontent.com/93588907/147420505-ff6cad68-c042-4fee-b97b-f1f759fe228e.png)
@@ -37,7 +44,8 @@
 
 ### Contact Us Page
 ![Screenshot (27)](https://user-images.githubusercontent.com/93588907/147420669-0ab38cac-a117-4eeb-a9e9-b964c7f04d7f.png)
- 
+#  
+#  
 # **Small screen adapted wireframes**
 
 ### Home Page
@@ -48,19 +56,23 @@
 
 ### Contact Us Page
 ![Mobile Contact Us Page](https://user-images.githubusercontent.com/93588907/147420846-e78b9247-9821-4070-9245-40de0ce6927c.png)
-
-# **Contrast**
+#  
+#  
+# **Contrast.**
 
 ### In order to maximize the ease of use, dark background theme and a pearl-white (#f5f5f5)
 ### font color was chosen.
-
-# **Fonts**
+#  
+#  
+# **Fonts.**
 ### Main font for this project is 'Source-serif-pro' while 'sans-serif' acts as a backup.
-
+#  
+#  
 # **Images**
 ### All images featured in this project were taken from https://www.pexels.com/ .
-
-# **Features**
+#  
+#  
+# **Features.**
 
 ## **Navigation Bar**
 ![Navigation links](https://user-images.githubusercontent.com/93588907/147421179-ed3e3358-6344-45ab-a181-4754e64b286a.png)
@@ -96,15 +108,17 @@
 ### without the unecessary 'bells and whistles' in a shape of tables or forms.
 ### Map, which sits below main contact details, strongly contributes to contact section when it
 ### comes to user experience.
-
-# **Responsiveness**
+#  
+#  
+# **Responsiveness.**
 ### In order to achieve high user satisfaction while using different devices -
 ### 'break-point' concept was applied.
 ![Media query](https://user-images.githubusercontent.com/93588907/147478705-4649302c-dffb-4d5c-99dd-a6bd1f6e9494.png)
 ### Elements were styled in such a way, that once below indicated pixel treshold, website 
 ### maintained the same 'flow and feel'. 
-
-# **Testing**
+#  
+#  
+# **Testing.**
 ### During development phase project and its feature performance were constantly checked
 ### using 'Developer Tools'. 
 ### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation' were very 
@@ -113,10 +127,11 @@
 ## **Hardware and Virtual 'Test Beds'**
 ### Apart from testing website reactions to different screen sizes on 'DevTools' and
 ### http://ami.responsivedesign.is/# website,
-### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung Z Flip 3 and Motorola G9 Play mobile phones.
+### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung Z ### Flip 3 and Motorola G9 Play mobile phones.
 ### No issues were found and everything worked as intended.
-
-# **W3C CSS and HTML Validation**
+#  
+#  
+# **W3C CSS and HTML Validation.**
 ### When checked, CSS returned with no errors found.
 ### However, there was a following warning displayed.
 ![Warning](https://user-images.githubusercontent.com/93588907/147469874-e6f2c642-272a-4ff2-ae30-9b7fd2282162.png)
@@ -128,8 +143,9 @@
 ### When checking complete project with the 'Lighthouse' tool,
 ### it generated the following report.
 ![Lighthouse report](https://user-images.githubusercontent.com/93588907/147470964-6dd2bc1b-f461-4ebc-acc9-a9d3dfc75b60.png)
-
-# **Problems Encountered**
+#  
+#  
+# **Problems Encountered.**
 ### Two issues were present during development stages.
 ### First of all, the images from HTML files would not show.
 ### This situation was also observed during the course exercises.
@@ -141,12 +157,14 @@
 ### will respond. However, after consultation with tutors it became aparent that icons must be 
 ### addressed specifically by unique selectors. The issue was fixed, although after reviewing 
 ### end results - hovering for the icons was dropped due to insuficient contrast.
-
-# **Deployment**
+#  
+#  
+# **Deployment.**
 ### Project was developed using GitPod as a building platform.
 ### Project was published on GitHub platform at: https://justuks.github.io/Genesis/
-
-# **Credits**
+#  
+#  
+# **Credits.**
 ### This project would not have been achieved without the help and guidance of 
 ### my mentor Mr. Mo Shami, and also without helpful
 - ### Slack Community
