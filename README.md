@@ -126,6 +126,23 @@
 ### it generated the following report.
 ![Lighthouse report](https://user-images.githubusercontent.com/93588907/147470964-6dd2bc1b-f461-4ebc-acc9-a9d3dfc75b60.png)
 
+# **Problems Encountered**
+### Two issues were present during development stages.
+### First of all, the images from HTML files would not show.
+### This situation was also observed during the course exercises.
+### Used same project images as a background in CSS and it worked without problems.
+### Second issue, which manifested itself, was with the social media icons
+### that did not respond to hovering command.
+![Links](https://user-images.githubusercontent.com/93588907/147477232-f7fa2499-a35c-48b3-9719-ae741579bac8.png)
+### Creator had the wrong peception that once hovering command is given to a link - all links
+### will respond. However, after consultation with tutors it became aparent that icons must be 
+### addressed specifically by unique selectors. The issue was fixed, although after reviewing 
+### end results - hovering for the icons was dropped due to insuficient contrast.
+
+
+
+
+
 
 
 
