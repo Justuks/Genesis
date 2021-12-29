@@ -1,6 +1,6 @@
 # "OLD BARN" - Wildlife Preservation and Hunting Club
 
-![Screenshot (20)](https://user-images.githubusercontent.com/93588907/147383861-4a00e105-f287-41fe-be8a-136e575812bb.png)
+![Responsive Design](https://user-images.githubusercontent.com/93588907/147647311-0807625c-cf58-4b0f-a7ab-eddc2d108aa9.png)
 
 ## Is a website of an imaginary, non-profit public entity, designed with the goal of achieving maximum usability and accesibility across the wariety of platforms.
 #  
