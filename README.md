@@ -18,15 +18,15 @@ Designed by Justinas Valutis
 - ### GitHub - Used as a hosting platform
 #  
 #  
+# **Target Audience.**
+### Anyone, with an interest in nature. However, realistically, the 'Lion's Share' of the audience will be the people in an age group of 35+. 
+# 
+# 
 # **Website owners expectations.**
 ### 1. To introduce an organization's mission to general public, and as mentioned above,to do it in the most user-friendly way possible.
 ### 2. To promote activities through visual content.
 ### 3. To promote an entity through its social media channels.
 ### 4. To provide an easy way for a general public to find and contact an entity.
-# 
-# 
-# **Target Audience.**
-### Anyone, with an interest in nature. However, realistically, the 'Lion's Share' of the audience will be the people in an age group of 35+. 
 #  
 #  
 # **User expectations.**
