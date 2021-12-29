@@ -43,6 +43,9 @@ Designed by Justinas Valutis
 * ### I want to see some illustrations.
 * ### I want to see an easy way to contact them.
 * ### I want to follow up on social media platforms.
+# 
+## Returning user:
+* ### 
 
 # **Structure of a website.**
 # "OLD BARN" - Wildlife Preservation and Hunting Club
