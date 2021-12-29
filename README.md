@@ -30,8 +30,11 @@ Designed by Justinas Valutis
 #  
 #  
 # **User expectations.**
-### To familiarize with an organization. To find easily its contact information and location.
-### To connect with an organization's social media platforms if needed.
+### 1. To see what this organization is all about?
+### 2. Expect easy and intuitive navigation.
+### 3. Expect to find links to social media channels.
+### 4. Expect to find full contact information.
+### 5. Expect some 'visual confirmation' of organization's activities.
 #  
 #  
 # **Structure of a website.**
