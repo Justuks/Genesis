@@ -37,6 +37,13 @@ Designed by Justinas Valutis
 ### 5. Expect some 'visual confirmation' of organization's activities.
 #  
 #  
+# **User stories.**
+## First-time user:
+* ### I need to know what "OLD BARN" is and what they do?
+* ### I want to see some illustrations.
+* ### I want to see an easy way to contact them.
+* ### I want to follow up on social media platforms.
+
 # **Structure of a website.**
 # "OLD BARN" - Wildlife Preservation and Hunting Club
 ### embodies three pages:
