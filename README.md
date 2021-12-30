@@ -142,9 +142,8 @@ Designed by Justinas Valutis
 
 ## **Get in Touch**
 ![Get in Touch](https://user-images.githubusercontent.com/93588907/147734189-cb1b4b2f-911c-46a2-9c09-849da51539d4.png)
-### This is very important section and as a result it is laid oud in a very clear configuration
-### without the unecessary 'bells and whistles' in a shape of tables or forms.
-### Map, which sits below main contact details, strongly contributes to contact section when it
+### This is very important section and as a result it is laid oud in a very clear configuration.
+### Map, which sits below main contact details, strongly contributes to Get in Touch section when it
 ### comes to user experience.
 ### - User Stories: 3, 5, 7, 10, 11 covered.
 #  
@@ -248,6 +247,12 @@ Designed by Justinas Valutis
 #  
 #  
 # **Credits.**
+## **Media.**
+<details>
+<summary>Expand</summary>
+
+* [Deer](https://www.pexels.com/photo/deer-standing-in-woods-in-fall-8100784/) by David Selbert
+* [Girl](https://www.pexels.com/photo/kid-feeding-antelope-1172023/) by Alexandr Podvalny
 ### This project would not have been achieved without the help and guidance of 
 ### my mentor Mr. Mo Shami, and also without helpful hand of:
 - ### Slack Community
