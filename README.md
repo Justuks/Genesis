@@ -298,6 +298,41 @@ Designed by Justinas Valutis
 - ### **Action:** Open home page, navigate to Get in Touch Page via navigation bar.
 - ### **Result:** All the contact details and contact form is intuitively below page indicator.
 - ### **Conclusion:** Test passed.
+![Contact Information](https://user-images.githubusercontent.com/93588907/147790640-dc1e3cd1-308d-4c09-bf65-6f5e0504c867.png)
+# 
+## 4. I want to follow up on social media platforms.
+- ### **Action:** Open home page (or any page), links to social media are on the navigation bar.
+- ### **Result:** All links when clicked, open new window of required social media page.
+- ### **Conclusion:** Test passed.
+![Navigation Bar](https://user-images.githubusercontent.com/93588907/147791067-e8ecd7cd-d622-4419-a2b6-5e2b7c639662.png)
+# 
+## 5. I need to contact an organization for more information.
+- ### **Action:** Use contact details from Get in Touch Page or navigate to social media channels.
+- ### **Result:** All links and navigation aids are easy to use and contact information clearly displayed.
+- ### **Conclusion:** Test passed.
+# 
+## 6. I want to see new, up to date activity photos.
+- ### **Action:** Navigate to Gallery Page or social media channels.
+- ### **Result:** If visual content is updated, it will be easily accessible.
+- ### **Conclusion:** Test passed.
+# 
+## 7. I want to show my friends how to contact an organization.
+- ### **Action:** Navigate to Get in Touch page.
+- ### **Result:** Contact details are easily accessible.
+- ### **Conclusion:** Test passed.
+# 
+## 8. As a site owner, I want to present content in a clear, consistent and intuitive way.
+- ### **Action:** Use the consistent layout design, sufficient contrast and intuitive navigation tools.
+- ### **Result:** Website is designed in a consistent pattern, and is easily understood with the help of navigation tools such as navigation bar, footer an page indicators.
+- ### **Conclusion:** Test passed.
+# 
+## 9. I want to build new and maintain existing relationship with our target audience.
+- ### **Action:** Leave open channels of communication through contact details and social media.
+- ### **Result:** Contact details and social media are easily accessible.
+- ### **Conclusion:** Test passed.
+
+
+
 # 
 # 
 ## **Accessibility Report**
