@@ -8,7 +8,7 @@ Designed by Justinas Valutis
 ## Is a website of an imaginary, non-profit public entity, designed with the goal of achieving maximum usability and accesibility across the wariety of platforms.
 #  
 #  
-# **Technologies used:**
+# **Technologies Used:**
 - ### HTML5 - To build a structure
 - ### CSS - To style the project
 - ### Google Fonts - As a fonts recourse
@@ -22,14 +22,14 @@ Designed by Justinas Valutis
 ### Anyone, with an interest in nature. However, realistically, the 'Lion's Share' of the audience will be the people in an age group of 35+. 
 # 
 # 
-# **Website owners expectations.**
+# **Website Owners Expectations.**
 ### 1. To introduce an organization's mission to general public, and as mentioned above,to do it in the most user-friendly way possible.
 ### 2. To promote activities through visual content.
 ### 3. To promote an entity through its social media channels.
 ### 4. To provide an easy way for a general public to find and contact an entity.
 #  
 #  
-# **User expectations.**
+# **User Expectations.**
 ### 1. To see what this organization is all about?
 ### 2. Expect easy and intuitive navigation.
 ### 3. Expect to find links to social media channels.
@@ -37,7 +37,7 @@ Designed by Justinas Valutis
 ### 5. Expect some 'visual confirmation' of organization's activities.
 #  
 #  
-# **User stories.**
+# **User Stories.**
 ## First-time user:
 ### 1. I need to know what "OLD BARN" is and what they do?
 ### 2. I want to see some illustrations.
@@ -56,14 +56,14 @@ Designed by Justinas Valutis
 ### 11. I want to build new and maintain existing relationship with our target audience.
 # 
 # 
-# **Structure of a website.**
+# **Structure of a Website.**
 # "OLD BARN" - Wildlife Preservation and Hunting Club
 ### embodies three pages:
 - ### Home page, with the main declaration of an entity.
 - ### Gallery page, where photos of members or activities can be published.
 - ### Contact us page, where user can easily find all relevant contact information.
 #  
-# **Wirframes of the pages.**
+# **Wirframes of the Pages.**
 ### Home Page
 <details>
 <summary>Expand</summary>
@@ -90,9 +90,8 @@ Designed by Justinas Valutis
 
 #  
 #  
-# **Contrast.**
-
-### In order to maximize the ease of use, dark background theme and a pearl-white (#f5f5f5)
+# **Color Theme.**
+### In order to maximize the ease of use and accessibility, dark background theme and a pearl-white (#f5f5f5)
 ### font color was chosen.
 #  
 #  
@@ -100,7 +99,7 @@ Designed by Justinas Valutis
 ### Main font for this project is 'Source-serif-pro' while 'sans-serif' acts as a backup.
 #  
 #  
-# **Images**
+# **Images.**
 ### All images featured in this project were taken from [Pexels](https://www.pexels.com/).
 #  
 #  
@@ -111,17 +110,20 @@ Designed by Justinas Valutis
 ### Navigation links are easy to use. Besides two internal conectors, there are links to
 ### organization's social media accounts.
 ### All links, except social media icons, respond to hovering by displaying an underline.
+### - User Stories: 4, 6, and 8 covered.
 
 ## **Current Page Indicator**
 ![Current page label](https://user-images.githubusercontent.com/93588907/147421343-6548e239-309f-4539-a6ac-d2a48c553820.png)
 ### All pages have an 'indicator' showing what section of a website user is in.
 ### This feature helps website pages to look and feel more user-friendly as well as
 ### it is indirect aid when it comes to navigating.
+### - User Stories: 8 covered.
 
 ## **What We Do**
 ![Main Declaration](https://user-images.githubusercontent.com/93588907/147421621-9e2cffb4-0809-4e79-86ae-ff0c335ff910.png)
 ### This is the main declaration in a home page of what the organization is all about.
 ### It is a mixture of textual and visual statements that complement each other.
+
 
 ## **Footer**
 ![Footer](https://user-images.githubusercontent.com/93588907/147421818-d9420e58-c6a7-4fd3-99ce-ab6fe82dcdca.png)
