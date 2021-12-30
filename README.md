@@ -6,6 +6,11 @@ Designed by Justinas Valutis
 ## Is a website of an imaginary, non-profit public entity, designed with the goal of achieving maximum usability and accesibility across the wariety of platforms.
 #  
 #  
+# **Table of Content:**
+# 
+[Technologies Used](#technologies-used)
+# 
+
 # **Technologies Used:**
 - ### HTML5 - To build a structure
 - ### CSS - To style the project
