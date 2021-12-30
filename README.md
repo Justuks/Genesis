@@ -123,6 +123,7 @@ Designed by Justinas Valutis
 ![Main Declaration](https://user-images.githubusercontent.com/93588907/147421621-9e2cffb4-0809-4e79-86ae-ff0c335ff910.png)
 ### This is the main declaration in a home page of what the organization is all about.
 ### It is a mixture of textual and visual statements that complement each other.
+### - User Stories: 1, 9 covered.
 
 
 ## **Footer**
@@ -130,14 +131,16 @@ Designed by Justinas Valutis
 ### Footer section carries a very important link, which brings users back to the top of the page.
 ### This feature eliminates the need to use a vertical scroll bar, adding to better user experience.
 ### Within the footer there are also the details of an author.
+### - User Stories: 8 covered.
 
 ## **Gallery**
 ![Gallery Page](https://user-images.githubusercontent.com/93588907/147484001-d12a8539-9c68-4895-943a-d964968e3d22.png)
 ### Gallery page consists of slots with images that directly or indirectly support 
 ### organizations' mission.
 ### Needless to say that the images can be taken out and new ones can be inserted if need be.
+### - User Stories: 2, 6 covered.
 
-## **Contact Us**
+## **Get in Touch**
 ![Contact Details](https://user-images.githubusercontent.com/93588907/147454909-ca60c7e6-1ed1-419c-9073-f3500803fc4b.png)
 ### This is very important section and as a result it is laid oud in a very clear configuration
 ### without the unecessary 'bells and whistles' in a shape of tables or forms.
