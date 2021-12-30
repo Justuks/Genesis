@@ -36,6 +36,8 @@ Designed by Justinas Valutis
 # 
 * [HTML Validation](#html-validation)
 # 
+* [Lighthouse Report](#lighthouse-report)
+# 
 * [Problems Encountered](#problems-encountered)
 # 
 * [Technologies Used](#technologies-used)
