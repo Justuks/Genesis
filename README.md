@@ -207,8 +207,8 @@ Designed by Justinas Valutis
 # 
 # 
 ## **Accessibility Report**
-### Website was also evaluated using [WebAIM](https://wave.webaim.org/)tools. In this particular 
-### case it was interesting to see contrast parameters.
+### Website was also evaluated using [WebAIM](https://wave.webaim.org/) tools. In this particular 
+### case it was interesting to see contrast parameters that stood at a healthy 8.59:1 contrast ratio.
 <details>
 <summary>Expand</summary>
 
