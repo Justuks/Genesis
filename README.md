@@ -281,14 +281,23 @@ Designed by Justinas Valutis
 # 
 # **User Story Tests**
 ## 1. I need to know what "OLD BARN" is and what they do?
-- ### Action: Open home page.
-- ### Result: Mission statement is right in the middle of viewport.
-- ### Conclusion: Test passed.
+- ### **Action:** Open home page.
+- ### **Result:** Mission statement is right in the middle of viewport.
+- ### **Conclusion:** Test passed.
+![Mission Statement](https://user-images.githubusercontent.com/93588907/147790258-1faf18a4-d46b-4472-be89-8e99ed0a7c56.png)
+
 # 
 ## 2. I want to see some illustrations.
-- ### Action: Open home page, navigate to gellery page via gallery link.
-- ### Result: Page indicator shows I am on a gallery page with photos intuitively below indicator.
-- ### Conclusion: Test passed.
+- ### **Action:** Open home page, navigate to Gallery Page via gallery link.
+- ### **Result:** Page indicator shows I am on a gallery page with photos intuitively below indicator.
+- ### **Conclusion:** Test passed.
+![Gallery](https://user-images.githubusercontent.com/93588907/147790393-c10c6983-6702-4ac9-9e9c-a09be0dedb32.png)
+
+# 
+## 3. I want to see an easy way to contact them.
+- ### **Action:** Open home page, navigate to Get in Touch Page via navigation bar.
+- ### **Result:** All the contact details and contact form is intuitively below page indicator.
+- ### **Conclusion:** Test passed.
 # 
 # 
 ## **Accessibility Report**
