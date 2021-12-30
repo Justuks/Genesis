@@ -6,6 +6,8 @@
     border: none;
 }
 
+/*my main 'constitution' of styles here below*/
+
 body {
     font-family: Source-serif-pro, sans-serif;
     font-weight: 300;
@@ -238,6 +240,8 @@ footer {
 #important h2 {
     padding-top: 25px;
 }
+
+/* this is a media query to rearange elements once they pass beyond set treshold*/
 
 @media screen and (max-width: 750px) {
     .photo {
