@@ -172,6 +172,9 @@ Designed by Justinas Valutis
 #  
 #  
 # **W3C CSS and HTML Validation.**
+<details>
+<summary>Expand</summary>
+
 ### When checked, CSS returned with no errors found.
 ![CSS Validation](https://user-images.githubusercontent.com/93588907/147735598-f14f1618-3380-4c44-ae62-717797ab9141.png)
 # 
@@ -180,11 +183,18 @@ Designed by Justinas Valutis
 # 
 ### HTML Gallery Page validation
 ![Gallery Page HTML Validation](https://user-images.githubusercontent.com/93588907/147737745-2ed147cb-8c04-445f-b851-eee3a4c82e8c.png)
+# 
+### HTML Get in Touch Page validation
+![Screenshot (67)](https://user-images.githubusercontent.com/93588907/147738130-1ca69e92-607c-4685-97bf-830693627fa6.png)
+</details>
 
-## **Lighthouse Report**
-### When checking complete project with the 'Lighthouse' tool,
-### it generated the following report.
-![Lighthouse report](https://user-images.githubusercontent.com/93588907/147470964-6dd2bc1b-f461-4ebc-acc9-a9d3dfc75b60.png)
+# 
+# 
+# **Lighthouse Report**
+<details>
+<summary>Expand</summary>
+
+
 #  
 #  
 # **Problems Encountered.**
