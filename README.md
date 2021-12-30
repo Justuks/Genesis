@@ -171,7 +171,7 @@ Designed by Justinas Valutis
 ### No issues were found and everything worked as intended.
 #  
 #  
-# **W3C CSS and HTML Validation.**
+## **W3C CSS and HTML Validation.**
 <details>
 <summary>Expand</summary>
 
@@ -190,7 +190,7 @@ Designed by Justinas Valutis
 
 # 
 # 
-# **Lighthouse Report**
+## **Lighthouse Report**
 <details>
 <summary>Expand</summary>
 
@@ -199,6 +199,10 @@ Designed by Justinas Valutis
 # 
 ### Gallery Page Report
 ![Gallery Page](https://user-images.githubusercontent.com/93588907/147739129-166ed077-db12-4c6a-b0e0-4ec7c26a4bdb.png)
+# 
+### Get in Touch Page report
+![Get in Touch Page](https://user-images.githubusercontent.com/93588907/147739474-5deea767-a700-4d38-bca1-799b9367d643.png)
+</details>
 
 
 #  
