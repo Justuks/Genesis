@@ -46,8 +46,14 @@ Designed by Justinas Valutis
 # 
 ## Returning user:
 * ### I need to contact an organization for more information.
-* ### I would love to see new, up to date activity photos.
-* ### I want to show my friends how to contact an organization.
+* ### I want to see new, up to date activity photos.
+* ### I want to show their friends how to contact an organization.
+# 
+## As a website owner:
+* ### I want to present content in a clear, consistent and intuitive way.
+* ### I want people to familiarise themselves with an organization.
+* ### I want target audience to be able to contact us.
+* ### I want to build new and maintain existing relationship with our target audience.
 
 # **Structure of a website.**
 # "OLD BARN" - Wildlife Preservation and Hunting Club
