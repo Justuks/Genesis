@@ -326,7 +326,7 @@ Designed by Justinas Valutis
 - ### **Result:** Website is designed in a consistent pattern, and is easily understood with the help of navigation tools such as navigation bar, footer an page indicators.
 - ### **Conclusion:** Test passed.
 # 
-## 9. I want to build new and maintain existing relationship with our target audience.
+## 9. As a site owner, I want to build new and maintain existing relationship with our target audience.
 - ### **Action:** Leave open channels of communication through contact details and social media.
 - ### **Result:** Contact details and social media are easily accessible.
 - ### **Conclusion:** Test passed.
