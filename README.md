@@ -237,11 +237,15 @@ Designed by Justinas Valutis
 <summary>Expand</summary>
 
 ![CSS Validation](https://user-images.githubusercontent.com/93588907/147735598-f14f1618-3380-4c44-ae62-717797ab9141.png)
+</details>
 
 [Table of Content](#table-of-content)
 # 
 ## **HTML Validation**
 ### Checking HTML also showed zero errors or warnings.
+<details>
+<summary>Expand</summary>
+
 ### HTML Home Page validation
 ![Home Page HTML Validation](https://user-images.githubusercontent.com/93588907/147737473-495b9b63-8f8e-4ff2-a8c6-40f24a3b4f68.png)
 
