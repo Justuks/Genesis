@@ -54,7 +54,8 @@ Designed by Justinas Valutis
 * ### I want people to familiarise themselves with an organization.
 * ### I want target audience to be able to contact us.
 * ### I want to build new and maintain existing relationship with our target audience.
-
+# 
+# 
 # **Structure of a website.**
 # "OLD BARN" - Wildlife Preservation and Hunting Club
 ### embodies three pages:
@@ -62,29 +63,31 @@ Designed by Justinas Valutis
 - ### Gallery page, where photos of members or activities can be published.
 - ### Contact us page, where user can easily find all relevant contact information.
 #  
-#
 # **Wirframes of the pages.**
-
 ### Home Page
+<details>
+<summary>Expand</summary>
+
 ![Home Page](https://user-images.githubusercontent.com/93588907/147420505-ff6cad68-c042-4fee-b97b-f1f759fe228e.png)
-
-### Gallery Page
-![Gallery Page](https://user-images.githubusercontent.com/93588907/147420601-671d770c-84f0-422e-ba6d-3244543c59f6.png)
-
-### Contact Us Page
-![Screenshot (27)](https://user-images.githubusercontent.com/93588907/147420669-0ab38cac-a117-4eeb-a9e9-b964c7f04d7f.png)
-#  
-#  
-# **Small screen adapted wireframes**
-
-### Home Page
 ![Mobile Home Page](https://user-images.githubusercontent.com/93588907/147420747-a7ece7e2-eb8d-444d-9262-5a8f4bd8949a.png)
+</details>
 
 ### Gallery Page
-![Mobile Gallery Page](https://user-images.githubusercontent.com/93588907/147420801-988a57e0-391a-484c-9a36-c90a3c6f1926.png)
+<details>
+<summary>Expand</summary>
 
-### Contact Us Page
-![Mobile Contact Us Page](https://user-images.githubusercontent.com/93588907/147420846-e78b9247-9821-4070-9245-40de0ce6927c.png)
+![Gallery Page](https://user-images.githubusercontent.com/93588907/147420601-671d770c-84f0-422e-ba6d-3244543c59f6.png)
+![Mobile Gallery Page](https://user-images.githubusercontent.com/93588907/147420801-988a57e0-391a-484c-9a36-c90a3c6f1926.png)
+</details>
+
+### Get in Touch Page
+<details>
+<summary>Expand</summary>
+
+![Get in touch page](https://user-images.githubusercontent.com/93588907/147420669-0ab38cac-a117-4eeb-a9e9-b964c7f04d7f.png)
+![Mobile Get in touch age](https://user-images.githubusercontent.com/93588907/147420846-e78b9247-9821-4070-9245-40de0ce6927c.png)
+</details>
+
 #  
 #  
 # **Contrast.**
