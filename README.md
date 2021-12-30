@@ -45,7 +45,9 @@ Designed by Justinas Valutis
 * ### I want to follow up on social media platforms.
 # 
 ## Returning user:
-* ### 
+* ### I need to contact an organization for more information.
+* ### I would love to see new, up to date activity photos.
+* ### I want to show my friends how to contact an organization.
 
 # **Structure of a website.**
 # "OLD BARN" - Wildlife Preservation and Hunting Club
