@@ -330,8 +330,7 @@ Designed by Justinas Valutis
 - ### **Action:** Leave open channels of communication through contact details and social media.
 - ### **Result:** Contact details and social media are easily accessible.
 - ### **Conclusion:** Test passed.
-
-
+[Table of Content](#table-of-content)
 
 # 
 # 
