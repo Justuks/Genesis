@@ -22,6 +22,14 @@ Designed by Justinas Valutis
 # 
 * [Wireframes of the Pages](#wireframes-of-the-pages)
 # 
+* [Color Theme](#color-theme)
+# 
+* [Fonts](#fonts)
+# 
+* [Images](#images)
+# 
+* [Features](#features)
+# 
 * 
 
 # **Technologies Used:**
@@ -79,7 +87,7 @@ Designed by Justinas Valutis
 - ### Gallery page, where photos of members or activities can be published.
 - ### Contact us page, where user can easily find all relevant contact information.
 #  
-# **Wirframes of the Pages.**
+# **Wireframes of the Pages.**
 ### Home Page
 <details>
 <summary>Expand</summary>
