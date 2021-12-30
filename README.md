@@ -218,9 +218,10 @@ Designed by Justinas Valutis
 #  
 #  
 # **Testing.**
-### During development phase, project and its feature performance were constantly checked
+### During development phase, project and its features performance were constantly checked
 ### using 'Developer Tools'. 
 ### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation' were very useful in configurating project responsiveness to smaller screen sizes.
+### Besides Developer Tools, kinetic tests were carried out in order to make sure that every link regardless of location is responding and that form works too.
 [Table of Content](#table-of-content)
 
 ## **Hardware and Virtual 'Test Beds'**
