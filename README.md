@@ -61,6 +61,7 @@ Designed by Justinas Valutis
 ### 2. To promote activities through visual content.
 ### 3. To promote an entity through its social media channels.
 ### 4. To provide an easy way for a general public to find and contact an entity.
+[Table of Content](#table-of-content)
 #  
 #  
 # **User Expectations.**
@@ -69,6 +70,7 @@ Designed by Justinas Valutis
 ### 3. Expect to find links to social media channels.
 ### 4. Expect to find full contact information.
 ### 5. Expect some 'visual confirmation' of organization's activities.
+[Table of Content](#table-of-content)
 #  
 #  
 # **User Stories.**
