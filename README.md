@@ -30,7 +30,13 @@ Designed by Justinas Valutis
 # 
 * [Features](#features)
 # 
-* 
+* [Responsiveness](#responsiveness)
+# 
+* [Testing](#testing)
+# 
+* [Problems Encountered](#problems-encountered)
+# 
+* []
 
 # **Technologies Used:**
 - ### HTML5 - To build a structure
