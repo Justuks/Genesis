@@ -18,6 +18,10 @@ Designed by Justinas Valutis
 # 
 * [User Stories](#user-stories)
 # 
+* [Structure of a Website](#structure-of-a-website)
+# 
+* [Wireframes of the Pages](#wireframes-of-the-pages)
+# 
 * 
 
 # **Technologies Used:**
