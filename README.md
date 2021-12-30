@@ -142,14 +142,17 @@ Designed by Justinas Valutis
 # **Color Theme.**
 ### In order to maximize the ease of use and accessibility, dark background theme and a pearl-white (#f5f5f5)
 ### font color was chosen.
+[Table of Content](#table-of-content)
 #  
 #  
 # **Fonts.**
 ### Main font for this project is 'Source-serif-pro' while 'sans-serif' acts as a backup.
+[Table of Content](#table-of-content)
 #  
 #  
 # **Images.**
 ### All images featured in this project were taken from [Pexels](https://www.pexels.com/).
+[Table of Content](#table-of-content)
 #  
 #  
 # **Features.**
