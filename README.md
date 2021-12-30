@@ -263,6 +263,8 @@ Designed by Justinas Valutis
 * [favicon](https://www.pexels.com/photo/close-up-shot-of-a-hedgehog-7133412/) by Kenny Belue
 </details>
 
+### Favicon Insertion Example by [Dani Crossing](https://www.youtube.com/watch?v=kEf1xSwX5D8).
+
 # 
 # 
 # **Acknowledgement**
