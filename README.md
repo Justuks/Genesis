@@ -113,6 +113,9 @@ Designed by Justinas Valutis
 
 ![Gallery Page](https://user-images.githubusercontent.com/93588907/147420601-671d770c-84f0-422e-ba6d-3244543c59f6.png)
 ![Mobile Gallery Page](https://user-images.githubusercontent.com/93588907/147420801-988a57e0-391a-484c-9a36-c90a3c6f1926.png)
+# 
+[Table of Content](#table-of-content)
+
 </details>
 
 ### Get in Touch Page
@@ -121,6 +124,7 @@ Designed by Justinas Valutis
 
 ![Get in touch page](https://user-images.githubusercontent.com/93588907/147420669-0ab38cac-a117-4eeb-a9e9-b964c7f04d7f.png)
 ![Mobile Get in touch age](https://user-images.githubusercontent.com/93588907/147420846-e78b9247-9821-4070-9245-40de0ce6927c.png)
+# 
 [Table of Content](#table-of-content)
 </details>
 
