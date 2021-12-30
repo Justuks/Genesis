@@ -39,21 +39,21 @@ Designed by Justinas Valutis
 #  
 # **User stories.**
 ## First-time user:
-* ### I need to know what "OLD BARN" is and what they do?
-* ### I want to see some illustrations.
-* ### I want to see an easy way to contact them.
-* ### I want to follow up on social media platforms.
+### 1. I need to know what "OLD BARN" is and what they do?
+### 2. I want to see some illustrations.
+### 3. I want to see an easy way to contact them.
+### 4. I want to follow up on social media platforms.
 # 
 ## Returning user:
-* ### I need to contact an organization for more information.
-* ### I want to see new, up to date activity photos.
-* ### I want to show their friends how to contact an organization.
+### 5. I need to contact an organization for more information.
+### 6. I want to see new, up to date activity photos.
+### 7. I want to show their friends how to contact an organization.
 # 
 ## As a website owner:
-* ### I want to present content in a clear, consistent and intuitive way.
-* ### I want people to familiarise themselves with an organization.
-* ### I want target audience to be able to contact us.
-* ### I want to build new and maintain existing relationship with our target audience.
+### 8. I want to present content in a clear, consistent and intuitive way.
+### 9. I want people to familiarise themselves with an organization.
+### 10. I want target audience to be able to contact us.
+### 11. I want to build new and maintain existing relationship with our target audience.
 # 
 # 
 # **Structure of a website.**
