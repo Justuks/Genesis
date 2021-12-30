@@ -252,14 +252,15 @@ Designed by Justinas Valutis
 <details>
 <summary>Expand</summary>
 
-* [Deer](https://www.pexels.com/photo/deer-standing-in-woods-in-fall-8100784/) by David Selbert
-* [Girl](https://www.pexels.com/photo/kid-feeding-antelope-1172023/) by Alexandr Podvalny
-* [Hare](https://www.pexels.com/photo/close-up-photo-of-rabbit-2576780/) by Ray Bilcliff
-* [Hunters](https://www.pexels.com/photo/cold-snow-wood-nature-6204646/) by Tima Miroshnichenko
-* [Jeep](https://www.pexels.com/photo/blue-car-on-dirt-road-between-green-leaf-trees-758744/) by Ahmad Syahrir
-* [Kids](https://www.pexels.com/photo/teenagers-in-forest-10484499/) by Ron Lach
-* [Campfire](https://www.pexels.com/photo/selective-focus-photography-of-people-holding-sticks-with-sausages-3569890/) by Nicolette Attree
+* [deer](https://www.pexels.com/photo/deer-standing-in-woods-in-fall-8100784/) by David Selbert
+* [girl](https://www.pexels.com/photo/kid-feeding-antelope-1172023/) by Alexandr Podvalny
+* [hare](https://www.pexels.com/photo/close-up-photo-of-rabbit-2576780/) by Ray Bilcliff
+* [hunters](https://www.pexels.com/photo/cold-snow-wood-nature-6204646/) by Tima Miroshnichenko
+* [jeep](https://www.pexels.com/photo/blue-car-on-dirt-road-between-green-leaf-trees-758744/) by Ahmad Syahrir
+* [kids](https://www.pexels.com/photo/teenagers-in-forest-10484499/) by Ron Lach
+* [campfire](https://www.pexels.com/photo/selective-focus-photography-of-people-holding-sticks-with-sausages-3569890/) by Nicolette Attree
 * [flooring](https://www.pexels.com/photo/brown-wooden-board-301378/) by Pixabay
+* [favicon](https://www.pexels.com/photo/close-up-shot-of-a-hedgehog-7133412/) by Kenny Belue
 </details>
 
 # 
