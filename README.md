@@ -248,14 +248,23 @@ Designed by Justinas Valutis
 #  
 # **Credits.**
 ## **Media.**
+### All images were taken from [Pexels](https://www.pexels.com/)
 <details>
 <summary>Expand</summary>
 
 * [Deer](https://www.pexels.com/photo/deer-standing-in-woods-in-fall-8100784/) by David Selbert
 * [Girl](https://www.pexels.com/photo/kid-feeding-antelope-1172023/) by Alexandr Podvalny
 * [Hare](https://www.pexels.com/photo/close-up-photo-of-rabbit-2576780/) by Ray Bilcliff
-* [Hunters at rest](https://www.pexels.com/photo/cold-snow-wood-nature-6204646/) by Tima Miroshnichenko
-* 
+* [Hunters](https://www.pexels.com/photo/cold-snow-wood-nature-6204646/) by Tima Miroshnichenko
+* [Jeep](https://www.pexels.com/photo/blue-car-on-dirt-road-between-green-leaf-trees-758744/) by Ahmad Syahrir
+* [Kids](https://www.pexels.com/photo/teenagers-in-forest-10484499/) by Ron Lach
+* [Campfire](https://www.pexels.com/photo/selective-focus-photography-of-people-holding-sticks-with-sausages-3569890/) by Nicolette Attree
+* [flooring](https://www.pexels.com/photo/brown-wooden-board-301378/) by Pixabay
+</details>
+
+# 
+# 
+# **Acknowledgement**
 ### This project would not have been achieved without the help and guidance of 
 ### my mentor Mr. Mo Shami, and also without helpful hand of:
 - ### Slack Community
@@ -263,6 +272,8 @@ Designed by Justinas Valutis
 - ### And various online recources, such as: [W3C](https://www.w3schools.com/) 
   ### and: [Developer Mozilla](https://developer.mozilla.org/en-US/)
 - ### [Google maps](https://www.google.com/maps/)
+## **But the person who deserves a particular recognition is my wife, who demonstrated an immense patience and support.**
+
 
 ## [Jump to the top](#technologies-used)
 
