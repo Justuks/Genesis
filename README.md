@@ -134,7 +134,7 @@ Designed by Justinas Valutis
 ### - User Stories: 8 covered.
 
 ## **Gallery**
-![Gallery Page](https://user-images.githubusercontent.com/93588907/147484001-d12a8539-9c68-4895-943a-d964968e3d22.png)
+![Gallery Page](https://user-images.githubusercontent.com/93588907/147734555-b8bc1975-b2f6-4313-8e2b-227e4cce8007.png)
 ### Gallery page consists of slots with images that directly or indirectly support 
 ### organizations' mission.
 ### Needless to say that the images can be taken out and new ones can be inserted if need be.
