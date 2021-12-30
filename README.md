@@ -36,8 +36,12 @@ Designed by Justinas Valutis
 # 
 * [Problems Encountered](#problems-encountered)
 # 
-* []
-
+* [Deployment](#deployment)
+# 
+* [Credits](#credits)
+# 
+* [Acknowledgement](#acknowledgement)
+# 
 # **Technologies Used:**
 - ### HTML5 - To build a structure
 - ### CSS - To style the project
@@ -250,10 +254,6 @@ Designed by Justinas Valutis
 ### Get in Touch Page Report
 ![Get in Touch Page](https://user-images.githubusercontent.com/93588907/147741099-c89195d5-ff80-4fa2-93f8-9ac5ef58efef.png)
 </details>
-
-
-
-
 
 #  
 #  
