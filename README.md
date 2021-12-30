@@ -38,6 +38,8 @@ Designed by Justinas Valutis
 # 
 * [Lighthouse Report](#lighthouse-report)
 # 
+* [User Story Tests](#user-story-tests)
+# 
 * [Problems Encountered](#problems-encountered)
 # 
 * [Technologies Used](#technologies-used)
