@@ -218,15 +218,13 @@ Designed by Justinas Valutis
 # **Testing.**
 ### During development phase, project and its feature performance were constantly checked
 ### using 'Developer Tools'. 
-### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation' were very 
-### useful in configurating project responsiveness to smaller screen sizes.
+### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation' were very useful in configurating project responsiveness to smaller screen sizes.
 [Table of Content](#table-of-content)
 
 ## **Hardware and Virtual 'Test Beds'**
 ### Apart from testing website reactions to different screen sizes on 'DevTools' and
 ### http://ami.responsivedesign.is/# website,
-### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung 
-### Z Flip and Motorola G9 Play mobile phones.
+### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung Z Flip and Motorola G9 Play mobile phones.
 ### No issues were found and everything worked as intended.
 [Table of Content](#table-of-content)
 #  
