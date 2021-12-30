@@ -204,6 +204,24 @@ Designed by Justinas Valutis
 ![Get in Touch Page](https://user-images.githubusercontent.com/93588907/147739474-5deea767-a700-4d38-bca1-799b9367d643.png)
 </details>
 
+# 
+# 
+## **Accessibility Report**
+### Website was also evaluated using [WebAIM](https://wave.webaim.org/)tools. In this particular 
+### case it was interesting to see contrast parameters.
+<details>
+<summary>Expand</summary>
+
+### Home Page Report
+![Home Page](https://user-images.githubusercontent.com/93588907/147740477-5a24f1de-2834-4642-808f-2870d81d1456.png)
+# 
+### Gallery Page Report
+![Gallery Page](https://user-images.githubusercontent.com/93588907/147740751-0bd26b2d-b646-425e-850b-3420c138659f.png)
+# 
+### Get in Touch Page Report
+
+
+
 
 #  
 #  
