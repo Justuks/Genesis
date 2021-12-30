@@ -101,6 +101,7 @@ Designed by Justinas Valutis
 - ### Home page, with the main declaration of an entity.
 - ### Gallery page, where photos of members or activities can be published.
 - ### Contact us page, where user can easily find all relevant contact information.
+[Table of Content](#table-of-content)
 #  
 # **Wireframes of the Pages.**
 ### Home Page
@@ -157,6 +158,7 @@ Designed by Justinas Valutis
 ### organization's social media accounts.
 ### All links, except social media icons, respond to hovering by displaying an underline.
 ### - User Stories: 4, 6, and 8 covered.
+[Table of Content](#table-of-content)
 
 ## **Current Page Indicator**
 ![Current page label](https://user-images.githubusercontent.com/93588907/147421343-6548e239-309f-4539-a6ac-d2a48c553820.png)
@@ -164,12 +166,14 @@ Designed by Justinas Valutis
 ### This feature helps website pages to look and feel more user-friendly as well as
 ### it is indirect aid when it comes to navigating.
 ### - User Stories: 8 covered.
+[Table of Content](#table-of-content)
 
 ## **What We Do**
 ![Main Declaration](https://user-images.githubusercontent.com/93588907/147421621-9e2cffb4-0809-4e79-86ae-ff0c335ff910.png)
 ### This is the main declaration in a home page of what the organization is all about.
 ### It is a mixture of textual and visual statements that complement each other.
 ### - User Stories: 1, 9 covered.
+[Table of Content](#table-of-content)
 
 
 ## **Footer**
@@ -178,6 +182,7 @@ Designed by Justinas Valutis
 ### This feature eliminates the need to use a vertical scroll bar, adding to better user experience.
 ### Within the footer there are also the details of an author.
 ### - User Stories: 8 covered.
+[Table of Content](#table-of-content)
 
 ## **Gallery**
 ![Gallery Page](https://user-images.githubusercontent.com/93588907/147734555-b8bc1975-b2f6-4313-8e2b-227e4cce8007.png)
@@ -185,6 +190,7 @@ Designed by Justinas Valutis
 ### organizations' mission.
 ### Needless to say that the images can be taken out and new ones can be inserted if need be.
 ### - User Stories: 2, 6 covered.
+[Table of Content](#table-of-content)
 
 ## **Get in Touch**
 ![Get in Touch](https://user-images.githubusercontent.com/93588907/147734189-cb1b4b2f-911c-46a2-9c09-849da51539d4.png)
@@ -192,6 +198,7 @@ Designed by Justinas Valutis
 ### Map, which sits below main contact details, strongly contributes to Get in Touch section when it
 ### comes to user experience.
 ### - User Stories: 3, 5, 7, 10, 11 covered.
+[Table of Content](#table-of-content)
 #  
 #  
 # **Responsiveness.**
@@ -200,6 +207,7 @@ Designed by Justinas Valutis
 ![Media query](https://user-images.githubusercontent.com/93588907/147478705-4649302c-dffb-4d5c-99dd-a6bd1f6e9494.png)
 ### Elements were styled in such a way, that once below indicated pixel treshold, website 
 ### maintained the same 'flow and feel'. 
+[Table of Content](#table-of-content)
 #  
 #  
 # **Testing.**
@@ -207,6 +215,7 @@ Designed by Justinas Valutis
 ### using 'Developer Tools'. 
 ### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation' were very 
 ### useful in configurating project responsiveness to smaller screen sizes.
+[Table of Content](#table-of-content)
 
 ## **Hardware and Virtual 'Test Beds'**
 ### Apart from testing website reactions to different screen sizes on 'DevTools' and
@@ -214,6 +223,7 @@ Designed by Justinas Valutis
 ### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung 
 ### Z Flip and Motorola G9 Play mobile phones.
 ### No issues were found and everything worked as intended.
+[Table of Content](#table-of-content)
 #  
 #  
 ## **W3C CSS and HTML Validation.**
@@ -222,15 +232,19 @@ Designed by Justinas Valutis
 
 ### When checked, CSS returned with no errors found.
 ![CSS Validation](https://user-images.githubusercontent.com/93588907/147735598-f14f1618-3380-4c44-ae62-717797ab9141.png)
+[Table of Content](#table-of-content)
 # 
 ### HTML Home Page validation
 ![Home Page HTML Validation](https://user-images.githubusercontent.com/93588907/147737473-495b9b63-8f8e-4ff2-a8c6-40f24a3b4f68.png)
+[Table of Content](#table-of-content)
 # 
 ### HTML Gallery Page validation
 ![Gallery Page HTML Validation](https://user-images.githubusercontent.com/93588907/147737745-2ed147cb-8c04-445f-b851-eee3a4c82e8c.png)
+[Table of Content](#table-of-content)
 # 
 ### HTML Get in Touch Page validation
 ![Screenshot (67)](https://user-images.githubusercontent.com/93588907/147738130-1ca69e92-607c-4685-97bf-830693627fa6.png)
+[Table of Content](#table-of-content)
 </details>
 
 # 
@@ -241,12 +255,16 @@ Designed by Justinas Valutis
 
 ### Home Page Report
 ![Home Page](https://user-images.githubusercontent.com/93588907/147738794-42e6bd79-c0a7-4a57-b296-8d5bc5071df5.png)
+[Table of Content](#table-of-content)
 # 
 ### Gallery Page Report
 ![Gallery Page](https://user-images.githubusercontent.com/93588907/147739129-166ed077-db12-4c6a-b0e0-4ec7c26a4bdb.png)
+[Table of Content](#table-of-content)
 # 
 ### Get in Touch Page report
 ![Get in Touch Page](https://user-images.githubusercontent.com/93588907/147739474-5deea767-a700-4d38-bca1-799b9367d643.png)
+[Table of Content](#table-of-content)
+
 </details>
 
 # 
@@ -259,12 +277,15 @@ Designed by Justinas Valutis
 
 ### Home Page Report
 ![Home Page](https://user-images.githubusercontent.com/93588907/147740477-5a24f1de-2834-4642-808f-2870d81d1456.png)
+[Table of Content](#table-of-content)
 # 
 ### Gallery Page Report
 ![Gallery Page](https://user-images.githubusercontent.com/93588907/147740751-0bd26b2d-b646-425e-850b-3420c138659f.png)
+[Table of Content](#table-of-content)
 # 
 ### Get in Touch Page Report
 ![Get in Touch Page](https://user-images.githubusercontent.com/93588907/147741099-c89195d5-ff80-4fa2-93f8-9ac5ef58efef.png)
+[Table of Content](#table-of-content)
 </details>
 
 #  
@@ -281,6 +302,7 @@ Designed by Justinas Valutis
 ### will respond. However, after consultation with tutors it became aparent that icons must be 
 ### addressed specifically by unique selectors. The issue was fixed, although after reviewing 
 ### the end results - hovering for the icons was dropped due to insuficient contrast.
+[Table of Content](#table-of-content)
 #  
 #  
 # **Deployment.**
@@ -290,6 +312,7 @@ Designed by Justinas Valutis
 * ### On the left hand menu select Pages
 * ### For the source select Branch: master
 * ### After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at: https://justuks.github.io/Genesis/
+[Table of Content](#table-of-content)
 #  
 #  
 # **Credits.**
@@ -310,6 +333,7 @@ Designed by Justinas Valutis
 </details>
 
 ### Favicon Insertion Example by [Dani Crossing](https://www.youtube.com/watch?v=kEf1xSwX5D8).
+[Table of Content](#table-of-content)
 
 # 
 # 
