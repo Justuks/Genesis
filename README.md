@@ -88,6 +88,7 @@ Designed by Justinas Valutis
 ### 9. I want people to familiarise themselves with an organization.
 ### 10. I want target audience to be able to contact us.
 ### 11. I want to build new and maintain existing relationship with our target audience.
+[Table of Content](#table-of-content)
 # 
 # 
 # **Structure of a Website.**
@@ -120,6 +121,7 @@ Designed by Justinas Valutis
 
 ![Get in touch page](https://user-images.githubusercontent.com/93588907/147420669-0ab38cac-a117-4eeb-a9e9-b964c7f04d7f.png)
 ![Mobile Get in touch age](https://user-images.githubusercontent.com/93588907/147420846-e78b9247-9821-4070-9245-40de0ce6927c.png)
+[Table of Content](#table-of-content)
 </details>
 
 #  
