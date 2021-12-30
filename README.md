@@ -253,6 +253,7 @@ Designed by Justinas Valutis
 
 * [Deer](https://www.pexels.com/photo/deer-standing-in-woods-in-fall-8100784/) by David Selbert
 * [Girl](https://www.pexels.com/photo/kid-feeding-antelope-1172023/) by Alexandr Podvalny
+* [Hare](https://www.pexels.com/photo/close-up-photo-of-rabbit-2576780/) by Ray Bilcliff
 ### This project would not have been achieved without the help and guidance of 
 ### my mentor Mr. Mo Shami, and also without helpful hand of:
 - ### Slack Community
