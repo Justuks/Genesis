@@ -231,20 +231,25 @@ Designed by Justinas Valutis
 [Table of Content](#table-of-content)
 #  
 #  
-## **W3C CSS and HTML Validation.**
+## **W3C CSS Validation**
+### Checking CSS code proved that it has no errors.
 <details>
 <summary>Expand</summary>
 
-### When checked, CSS returned with no errors found.
 ![CSS Validation](https://user-images.githubusercontent.com/93588907/147735598-f14f1618-3380-4c44-ae62-717797ab9141.png)
+
 [Table of Content](#table-of-content)
 # 
+## **HTML Validation**
+### Checking HTML also showed zero errors or warnings.
 ### HTML Home Page validation
 ![Home Page HTML Validation](https://user-images.githubusercontent.com/93588907/147737473-495b9b63-8f8e-4ff2-a8c6-40f24a3b4f68.png)
+
 [Table of Content](#table-of-content)
 # 
 ### HTML Gallery Page validation
 ![Gallery Page HTML Validation](https://user-images.githubusercontent.com/93588907/147737745-2ed147cb-8c04-445f-b851-eee3a4c82e8c.png)
+
 [Table of Content](#table-of-content)
 # 
 ### HTML Get in Touch Page validation
