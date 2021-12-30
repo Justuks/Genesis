@@ -336,8 +336,11 @@ Designed by Justinas Valutis
 * [favicon](https://www.pexels.com/photo/close-up-shot-of-a-hedgehog-7133412/) by Kenny Belue
 </details>
 
+### [Google maps](https://www.google.com/maps/)
+
 ### Favicon Insertion Example by [Dani Crossing](https://www.youtube.com/watch?v=kEf1xSwX5D8).
 [Table of Content](#table-of-content)
+
 
 # 
 # 
@@ -348,7 +351,6 @@ Designed by Justinas Valutis
 - ### Code Institute tutors
 - ### And various online recources, such as: [W3C](https://www.w3schools.com/) 
   ### and: [Developer Mozilla](https://developer.mozilla.org/en-US/)
-- ### [Google maps](https://www.google.com/maps/)
 ## **But the person who deserves a particular recognition is my wife, who demonstrated an immense patience and support.**
 
 
