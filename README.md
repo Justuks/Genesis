@@ -279,6 +279,18 @@ Designed by Justinas Valutis
 
 # 
 # 
+# **User Story Tests**
+## 1. I need to know what "OLD BARN" is and what they do?
+- ### Action: Open home page.
+- ### Result: Mission statement is right in the middle of viewport.
+- ### Conclusion: Test passed.
+# 
+## 2. I want to see some illustrations.
+- ### Action: Open home page, navigate to gellery page via gallery link.
+- ### Result: Page indicator shows I am on a gallery page with photos intuitively below indicator.
+- ### Conclusion: Test passed.
+# 
+# 
 ## **Accessibility Report**
 ### Website was also evaluated using [WebAIM](https://wave.webaim.org/) tools. In this particular 
 ### case it was interesting to see contrast parameters that stood at a healthy 8.59:1 contrast ratio.
