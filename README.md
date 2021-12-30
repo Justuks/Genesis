@@ -194,6 +194,12 @@ Designed by Justinas Valutis
 <details>
 <summary>Expand</summary>
 
+### Home Page Report
+![Home Page](https://user-images.githubusercontent.com/93588907/147738794-42e6bd79-c0a7-4a57-b296-8d5bc5071df5.png)
+# 
+### Gallery Page Report
+![Gallery Page](https://user-images.githubusercontent.com/93588907/147739129-166ed077-db12-4c6a-b0e0-4ec7c26a4bdb.png)
+
 
 #  
 #  
