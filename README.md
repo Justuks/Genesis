@@ -8,8 +8,17 @@ Designed by Justinas Valutis
 #  
 # **Table of Content:**
 # 
-[Technologies Used](#technologies-used)
+* [Technologies Used](#technologies-used)
 # 
+* [Target Audience](#target-audience)
+# 
+* [Website Owner's Expectations](#website-owners-expectations)
+# 
+* [User Expectations](#user-expectations)
+# 
+* [User Stories](#user-stories)
+# 
+* 
 
 # **Technologies Used:**
 - ### HTML5 - To build a structure
@@ -25,7 +34,7 @@ Designed by Justinas Valutis
 ### Anyone, with an interest in nature. However, realistically, the 'Lion's Share' of the audience will be the people in an age group of 35+. 
 # 
 # 
-# **Website Owners Expectations.**
+# **Website Owner's Expectations.**
 ### 1. To introduce an organization's mission to general public, and as mentioned above,to do it in the most user-friendly way possible.
 ### 2. To promote activities through visual content.
 ### 3. To promote an entity through its social media channels.
