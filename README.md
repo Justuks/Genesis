@@ -77,11 +77,13 @@ Designed by Justinas Valutis
 ### 2. I want to see some illustrations.
 ### 3. I want to see an easy way to contact them.
 ### 4. I want to follow up on social media platforms.
+[Table of Content](#table-of-content)
 # 
 ## Returning user:
 ### 5. I need to contact an organization for more information.
 ### 6. I want to see new, up to date activity photos.
 ### 7. I want to show their friends how to contact an organization.
+[Table of Content](#table-of-content)
 # 
 ## As a website owner:
 ### 8. I want to present content in a clear, consistent and intuitive way.
