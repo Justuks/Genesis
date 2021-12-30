@@ -50,10 +50,12 @@ Designed by Justinas Valutis
 - ### GitPod - Used as building platform
 - ### Balsamiq Wireframes - Used for wireframing
 - ### GitHub - Used as a hosting platform
+[Table of Content](#table-of-content)
 #  
 #  
 # **Target Audience.**
 ### Anyone, with an interest in nature. However, realistically, the 'Lion's Share' of the audience will be the people in an age group of 35+. 
+[Table of Content](#table-of-content)
 # 
 # 
 # **Website Owner's Expectations.**
