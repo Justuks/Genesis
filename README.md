@@ -34,6 +34,8 @@ Designed by Justinas Valutis
 # 
 * [Testing](#testing)
 # 
+* [Validation](#w3c-css-and-html-validation)
+# 
 * [Problems Encountered](#problems-encountered)
 # 
 * [Deployment](#deployment)
