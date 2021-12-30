@@ -173,8 +173,8 @@ Designed by Justinas Valutis
 #  
 # **W3C CSS and HTML Validation.**
 ### When checked, CSS returned with no errors found.
-### However, there was a following warning displayed.
-![Warning](https://user-images.githubusercontent.com/93588907/147469874-e6f2c642-272a-4ff2-ae30-9b7fd2282162.png)
+![CSS Validation](https://user-images.githubusercontent.com/93588907/147735598-f14f1618-3380-4c44-ae62-717797ab9141.png)
+
 
 ### When it comes to HTML, all three html pages passed the tests,
 ### with no errors or warnings to show.
