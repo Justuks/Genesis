@@ -8,8 +8,6 @@ Designed by Justinas Valutis
 #  
 # **Table of Content:**
 # 
-* [Technologies Used](#technologies-used)
-# 
 * [Target Audience](#target-audience)
 # 
 * [Website Owner's Expectations](#website-owners-expectations)
@@ -34,9 +32,13 @@ Designed by Justinas Valutis
 # 
 * [Testing](#testing)
 # 
-* [Validation](#w3c-css-and-html-validation)
+* [CSS Validation](#w3c-css-validation)
+# 
+* [HTML Validation](#html-validation)
 # 
 * [Problems Encountered](#problems-encountered)
+# 
+* [Technologies Used](#technologies-used)
 # 
 * [Deployment](#deployment)
 # 
@@ -44,15 +46,7 @@ Designed by Justinas Valutis
 # 
 * [Acknowledgement](#acknowledgement)
 # 
-# **Technologies Used:**
-- ### HTML5 - To build a structure
-- ### CSS - To style the project
-- ### Google Fonts - As a fonts recourse
-- ### Font awesome - As an Icons library
-- ### GitPod - Used as building platform
-- ### Balsamiq Wireframes - Used for wireframing
-- ### GitHub - Used as a hosting platform
-[Table of Content](#table-of-content)
+
 #  
 #  
 # **Target Audience.**
@@ -291,14 +285,17 @@ Designed by Justinas Valutis
 
 ### Home Page Report
 ![Home Page](https://user-images.githubusercontent.com/93588907/147740477-5a24f1de-2834-4642-808f-2870d81d1456.png)
+
 [Table of Content](#table-of-content)
 # 
 ### Gallery Page Report
 ![Gallery Page](https://user-images.githubusercontent.com/93588907/147740751-0bd26b2d-b646-425e-850b-3420c138659f.png)
+
 [Table of Content](#table-of-content)
 # 
 ### Get in Touch Page Report
 ![Get in Touch Page](https://user-images.githubusercontent.com/93588907/147741099-c89195d5-ff80-4fa2-93f8-9ac5ef58efef.png)
+
 [Table of Content](#table-of-content)
 </details>
 
@@ -319,6 +316,17 @@ Designed by Justinas Valutis
 [Table of Content](#table-of-content)
 #  
 #  
+# **Technologies Used:**
+- ### HTML5 - To build a structure
+- ### CSS - To style the project
+- ### Google Fonts - As a fonts recourse
+- ### Font awesome - As an Icons library
+- ### GitPod - Used as building platform
+- ### Balsamiq Wireframes - Used for wireframing
+- ### GitHub - Used as a hosting platform
+[Table of Content](#table-of-content)
+# 
+# 
 # **Deployment.**
 ### Project was developed using GitPod as a building platform.
 ### The website was deployed using GitHub Pages by following these steps:
