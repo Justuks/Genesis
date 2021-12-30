@@ -223,8 +223,7 @@ Designed by Justinas Valutis
 
 ## **Hardware and Virtual 'Test Beds'**
 ### Apart from testing website reactions to different screen sizes on 'DevTools' and
-### http://ami.responsivedesign.is/# website,
-### responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung Z Flip and Motorola G9 Play mobile phones.
+### http://ami.responsivedesign.is/# website, responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, Samsung Z Flip and Motorola G9 Play mobile phones.
 ### No issues were found and everything worked as intended.
 [Table of Content](#table-of-content)
 #  
