@@ -174,10 +174,12 @@ Designed by Justinas Valutis
 # **W3C CSS and HTML Validation.**
 ### When checked, CSS returned with no errors found.
 ![CSS Validation](https://user-images.githubusercontent.com/93588907/147735598-f14f1618-3380-4c44-ae62-717797ab9141.png)
-
-
-### When it comes to HTML, all three html pages passed the tests,
-### with no errors or warnings to show.
+# 
+### HTML Home Page validation
+![Home Page HTML Validation](https://user-images.githubusercontent.com/93588907/147737473-495b9b63-8f8e-4ff2-a8c6-40f24a3b4f68.png)
+# 
+### HTML Gallery Page validation
+![Gallery Page HTML Validation](https://user-images.githubusercontent.com/93588907/147737745-2ed147cb-8c04-445f-b851-eee3a4c82e8c.png)
 
 ## **Lighthouse Report**
 ### When checking complete project with the 'Lighthouse' tool,
